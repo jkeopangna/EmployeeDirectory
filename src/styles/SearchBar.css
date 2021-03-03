@@ -1,0 +1,12 @@
+.SearchInput {
+  width: 15rem;
+  margin-top: 1rem;
+}
+
+.SearchBtn {
+  margin-top: 1rem;
+  padding: 2px;
+  border: 1px solid black;
+  background-color: black;
+  color: white;
+}
